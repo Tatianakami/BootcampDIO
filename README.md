@@ -178,11 +178,6 @@ Ambiente gamificado e oportunidades de contratação pela F1RST.
 7. Autor
 👩‍💻 Tatiana Kami
 
-8. Estrutura de Pastas do Repositório
-/
-├── images/           # Screenshots e diagramas do projeto
-├── templates/        # Arquivos YAML/JSON do CloudFormation
-└── README.md         # Este arquivo
 
 
 
